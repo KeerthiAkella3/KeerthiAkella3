@@ -9,7 +9,7 @@ I am a full-time graduate student in Software Engineering from San Jose State Un
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
- 🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratorier   
+ 🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratories   
  🔭 Currently working in PayPal Credit Team as a SE intern. </br> 
  🌱 I am a creative individual, with an objective of lifelong learning and seeking new opportunities to grow professionally and as a person. My interests are Web development, Data Science and Machine learning.
  ⚡ Fun fact: I can speak 5 languages </br> 
