@@ -6,10 +6,11 @@
 
 Follow me on [![alt text][1.1]][1] or  [![alt text][2.1]][2] 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: 
+[1.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/twitter-16x16.png (twitter icon with padding)
+[2.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/linkedIn.png (LinkedIn icon with padding)
 
 [1]: http://www.twitter.com/KeerthyAkella
+[2]: https://www.linkedin.com/in/keerthi-akella-02545a169
 
 
 
