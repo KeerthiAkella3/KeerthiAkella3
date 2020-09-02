@@ -11,7 +11,7 @@
    Love to connect with you on  [![alt text][1.1]][1]  or   [![alt text][2.1]][2] 
    
    
-   ![Alt Text](https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/tenor.gif)
+   ![Alt Text](https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif)
 
 
   
