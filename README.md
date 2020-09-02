@@ -3,8 +3,7 @@
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<table border="0">
-<td>
+
  🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratorier </br>   
  🔭 Currently working in PayPal Credit Team as a SE intern. </br> 
  🌱 Interests Web Development and Data Science </br> 
@@ -18,12 +17,10 @@
 [1]: http://www.twitter.com/KeerthyAkella
 [2]: https://www.linkedin.com/in/keerthi-akella-02545a169
 
- </td>
- <td>
+
  
  ![Alt Text](https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif)
-</td>
-</table>
+
 
 
 
