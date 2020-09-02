@@ -1,4 +1,4 @@
-<table border="0">
+<table {border-collapse: collapse}>
 <td>
  
 ### Hi I'm Keerthi 👋
