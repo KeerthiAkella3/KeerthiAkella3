@@ -33,8 +33,6 @@
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KeerthiAkella3)
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiAkella3&layout=compact)](https://github.com/KeerthiAkella3/github-readme-stats)
 
