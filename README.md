@@ -4,7 +4,7 @@
 
 <!-- display the social media buttons in your README -->
 
-Follow me on [![alt text][1.1]][1] or  [![alt text][2.1]][2] 
+Follow me on  [![alt text][1.1]][1]  or   [![alt text][2.1]][2] 
 
 [1.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/twitter-16x16.png (twitter icon with padding)
 [2.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/linkedIn.png (LinkedIn icon with padding)
