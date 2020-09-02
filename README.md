@@ -3,7 +3,7 @@
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-<table>
+<table border = "0">
 <td>
  🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratorier </br>   
  🔭 Currently working in PayPal Credit Team as a SE intern. </br> 
