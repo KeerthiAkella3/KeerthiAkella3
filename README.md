@@ -1,4 +1,9 @@
-<table {border-collapse: collapse}>
+<table>
+ <style>
+.collapsed table {
+  border-collapse: collapse;
+}
+</style>
 <td>
  
 ### Hi I'm Keerthi 👋
