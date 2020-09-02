@@ -2,11 +2,16 @@
  
 ### Hi I'm Keerthi 👋
 
+<table>
+ <td>
 I am a full-time graduate student in Software Engineering from San Jose State University (class of 2020). Before joining in Master's I have worked for Tata Consultancy Services and did various internships in my undergraduate.  
-
+ </td>
+<td>
 
 <img src="https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif" width="300" length="300">
 
+</td>
+<td>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
  🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratories   
@@ -23,7 +28,8 @@ I am a full-time graduate student in Software Engineering from San Jose State Un
 
  
 
-
+</td>
+</table>
 
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
