@@ -2,13 +2,15 @@
  
 ### Hi I'm Keerthi 👋
 
+I am a full-time graduate student in Software Engineering from San Jose State University (class of 2020). Before joining in Master's I have worked for Tata Consultancy Services and did various internships in my undergraduate.  
+🌱 I am a creative individual, with an objective of lifelong learning and seeking new opportunities to grow professionally and as a person. My interests are Web development, Data Science and Machine learning.
+
 <img src="https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif" width="300" length="300">
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
  🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratorier   
  🔭 Currently working in PayPal Credit Team as a SE intern. </br> 
- 🌱 Interests Web Development and Data Science </br> 
  ⚡ Fun fact: I can speak 5 languages </br> 
  💭 Let's get to know each other. Love to connect with you on  [![alt text][1.1]][1]  or   [![alt text][2.1]][2]      
 
