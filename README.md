@@ -11,11 +11,12 @@
  ⚡ Fun fact: I can speak 5 languages </br> 
  💭 Let's get to know each other </br> 
   Love to connect with you on  [![alt text][1.1]][1]  or   [![alt text][2.1]][2]      
- [1.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/twitter-16x16.png (twitter icon without padding)
- [2.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/linkedIn.png (LinkedIn icon without padding)
 
- [1]: http://www.twitter.com/KeerthyAkella
- [2]: https://www.linkedin.com/in/keerthi-akella-02545a169
+[1.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/twitter-16x16.png (twitter icon without padding)
+[2.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/linkedIn.png (LinkedIn icon without padding)
+
+[1]: http://www.twitter.com/KeerthyAkella
+[2]: https://www.linkedin.com/in/keerthi-akella-02545a169
 
  </td>
  <td>
