@@ -11,7 +11,7 @@ I am a full-time graduate student in Software Engineering from San Jose State Un
 
  🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratories   
  🔭 Currently working in PayPal Credit Team as a SE intern. </br> 
- 🌱 I am a creative individual, with an objective of lifelong learning and seeking new opportunities to grow professionally and as a person. My interests are Web development, Data Science and Machine learning.
+ 🌱 I am a creative individual, with an objective of lifelong learning and seeking new opportunities to grow professionally and as a person. My interests are Web development, Data Science and Machine learning.</br> 
  ⚡ Fun fact: I can speak 5 languages </br> 
  💭 Let's get to know each other. Love to connect with you on  [![alt text][1.1]][1]  or   [![alt text][2.1]][2]      
 
