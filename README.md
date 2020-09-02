@@ -2,9 +2,12 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!-- display the social media buttons in your README -->
-
-Have any ideas? Love to connect with you on  [![alt text][1.1]][1]  or   [![alt text][2.1]][2] 
+🎖 Completed 5 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratories
+🔭 Currently working in PayPal Credit Team as a SE intern. 
+🌱 Interests Web Development and Data Science 
+⚡ Fun fact: I can speak 5 languages 
+💭 Let's get to know each other 🌟
+   Love to connect with you on  [![alt text][1.1]][1]  or   [![alt text][2.1]][2] 
 
 [1.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/twitter-16x16.png (twitter icon without padding)
 [2.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/linkedIn.png (LinkedIn icon without padding)
