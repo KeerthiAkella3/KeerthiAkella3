@@ -2,23 +2,24 @@
 
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
+<table>
+   <td>
 🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratories <br/>
 🔭 Currently working in PayPal Credit Team as a SE intern. <br/>
 🌱 Interests Web Development and Data Science <br/>
 ⚡ Fun fact: I can speak 5 languages <br/>
 💭 Let's get to know each other <br/>
    Love to connect with you on  [![alt text][1.1]][1]  or   [![alt text][2.1]][2] 
+   </td>
 
 
-
-   
+   <td>
  ![Alt Text](https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif)
-
+</td>
   
 
 
-  
+  </table>
 
 
 [1.1]: https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/twitter-16x16.png (twitter icon without padding)
