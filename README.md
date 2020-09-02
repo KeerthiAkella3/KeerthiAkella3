@@ -1,5 +1,38 @@
 ### Hi I'm Keerthi 👋
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/KeerthyAkella
+
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+Follow me on [!https://twitter.com/KeerthyAkella][1.1]][1]
+
 <!--
 **KeerthiAkella3/KeerthiAkella3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Actual text 
