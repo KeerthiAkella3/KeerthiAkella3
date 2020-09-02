@@ -1,13 +1,10 @@
-<table>
- <style>
-.collapsed table {
-  border-collapse: collapse;
-}
-</style>
-<td>
+
  
 ### Hi I'm Keerthi 👋
-
+<table>
+ 
+<td>
+ 
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
