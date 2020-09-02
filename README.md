@@ -2,7 +2,7 @@
  
 ### Hi I'm Keerthi 👋
 
-<table border='0'>
+<table border=0>
  
 <td>
  
