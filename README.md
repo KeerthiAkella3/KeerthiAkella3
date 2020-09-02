@@ -2,7 +2,7 @@
 
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<table>
+<table border = "0">
    <td>
 🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratories <br/>
 🔭 Currently working in PayPal Credit Team as a SE intern. <br/>
