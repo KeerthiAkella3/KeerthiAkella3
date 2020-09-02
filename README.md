@@ -18,5 +18,6 @@ Have any ideas? Love to connect with you on  [![alt text][1.1]][1]  or   [![alt 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KeerthiAkella3)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiAkella3&layout=compact)](https://github.com/KeerthiAkella3/github-readme-stats)
 
