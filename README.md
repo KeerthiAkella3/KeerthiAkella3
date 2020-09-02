@@ -22,7 +22,7 @@
  ![Alt Text](https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif)
 
 
-<img src="https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif" width="48">
+<img src="https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif" width="400" length="400">
 
 
 <br/>
