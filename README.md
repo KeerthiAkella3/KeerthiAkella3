@@ -2,11 +2,8 @@
  
 ### Hi I'm Keerthi 👋
 
-<table>
- 
-<td>
- 
-<br/>
+<a>
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
  🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratorier   
@@ -22,14 +19,14 @@
 [1]: http://www.twitter.com/KeerthyAkella
 [2]: https://www.linkedin.com/in/keerthi-akella-02545a169
 
-</td>
-<td>
+</a>
+<a>
  
  ![Alt Text](https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif)
 
-</td>
 
-</table>
+
+</a>
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
