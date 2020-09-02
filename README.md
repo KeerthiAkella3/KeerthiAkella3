@@ -1,5 +1,5 @@
 <table border="0">
-
+<td>
 ### Hi I'm Keerthi 👋
 
 <br/>
@@ -18,11 +18,12 @@
 [1]: http://www.twitter.com/KeerthyAkella
 [2]: https://www.linkedin.com/in/keerthi-akella-02545a169
 
-
+</td>
+<td>
  
  ![Alt Text](https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif)
 
-
+</td>
 
 </table>
 <br/>
