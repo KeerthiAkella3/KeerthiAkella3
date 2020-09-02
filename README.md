@@ -1,10 +1,8 @@
 
  
 ### Hi I'm Keerthi 👋
-table{
-border: 0px;
-}
-<table>
+
+<table border:none>
  
 <td>
  
