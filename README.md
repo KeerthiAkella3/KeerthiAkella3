@@ -2,7 +2,7 @@
  
 ### Hi I'm Keerthi 👋
 
-<table style="border:0px;">
+<table>
  
 <td>
  
