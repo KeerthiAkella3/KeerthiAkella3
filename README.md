@@ -2,8 +2,7 @@
  
 ### Hi I'm Keerthi 👋
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-<table border="0">
+<table border='0'>
  
 <td>
  
