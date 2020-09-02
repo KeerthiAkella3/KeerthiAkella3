@@ -3,8 +3,7 @@
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-
- 🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratorier </br>   
+ 🎖 Completed 4 tech internships at PayPal , Sbricks, VSoft and National Aerospace Laboratorier   
  🔭 Currently working in PayPal Credit Team as a SE intern. </br> 
  🌱 Interests Web Development and Data Science </br> 
  ⚡ Fun fact: I can speak 5 languages </br> 
