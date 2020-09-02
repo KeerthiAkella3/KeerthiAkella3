@@ -2,7 +2,6 @@
  
 ### Hi I'm Keerthi 👋
 
-<a>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -19,14 +18,13 @@
 [1]: http://www.twitter.com/KeerthyAkella
 [2]: https://www.linkedin.com/in/keerthi-akella-02545a169
 
-</a>
-<a>
  
  ![Alt Text](https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif)
 
 
+<img src="https://github.com/KeerthiAkella3/KeerthiAkella3/blob/master/89331370dfa611b339c113d9ae5c6647.gif" width="48">
 
-</a>
+
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
