@@ -1,3 +1,5 @@
+<table border="0">
+
 ### Hi I'm Keerthi 👋
 
 <br/>
@@ -22,7 +24,7 @@
 
 
 
-
+</table>
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
