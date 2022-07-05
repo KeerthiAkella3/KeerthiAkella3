@@ -22,7 +22,3 @@ I graduated with a Software Engineering from San Jose State University (class of
 
 <br/>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthiAkella3&layout=compact)](https://github.com/KeerthiAkella3/github-readme-stats)
-
