@@ -1,6 +1,6 @@
 
  
-### Hello, I'm Keerthi 👋
+### Hello, I'm [Keerthi](https://keerthiakella3.github.io/portfoliok/) 👋
 
 
 I graduated with a Software Engineering from San Jose State University (class of 2020). I am a creative individual, with an objective of lifelong learning and seeking new opportunities to grow professionally and as a person. My interests are Web development, Data Science and Machine learning.
